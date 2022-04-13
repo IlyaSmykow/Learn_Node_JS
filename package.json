@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/IlyaSmykow/Learn_Node_JS/issues"
   },
-  "homepage": "https://github.com/IlyaSmykow/Learn_Node_JS#readme"
+  "homepage": "https://github.com/IlyaSmykow/Learn_Node_JS#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
 }
