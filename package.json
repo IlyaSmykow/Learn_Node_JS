@@ -1,0 +1,21 @@
+{
+  "name": "learn_node_js",
+  "version": "1.0.0",
+  "description": "One",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlyaSmykow/Learn_Node_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlyaSmykow/Learn_Node_JS/issues"
+  },
+  "homepage": "https://github.com/IlyaSmykow/Learn_Node_JS#readme"
+}
